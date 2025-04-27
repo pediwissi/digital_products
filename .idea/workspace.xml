@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="653e4f1a-a046-4110-8b6e-36adbf00657b" name="Changes" comment="" />
+    <list default="true" id="653e4f1a-a046-4110-8b6e-36adbf00657b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/digital_products.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diggital_products/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requiments.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
