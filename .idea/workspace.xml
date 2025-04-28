@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653e4f1a-a046-4110-8b6e-36adbf00657b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/digital_products.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/diggital_products/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diggital_products/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requiments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/diggital_products/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_site/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/diggital_products/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_site/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/diggital_products/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/diggital_products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_site/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/diggital_products/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_site/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diggital_products/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requiments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requiments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
